@@ -1,14 +1,8 @@
+A young Android developer trying to make this world a better place.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=loakdv)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/loakdv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/anon0011011101011000001101110100)  
 
-- 🏫 I am a student at Maritime State University. adm. G.I. Nevelsky. Faculty of Electronics and Information Technology.       Informatics and computer engineering.
-- 📱  I am engaged in android development, I also take part in the development of a VR simulator for my university.
-- 🌏 I love very much to travel around the Primorsky Territory in my 🔰car🚙, it is very interesting and helps to relax.
-- 🍃 I love nature, and I am developing a service that will help us get rid of garbage, but more on that later
-- 🔭 I’m currently working on Project_Invest as Android Developer
-- 🌱 I’m currently learning Android, Unity Development, also Neural Networks
-- 📫 How to reach me: rabowvdk125@gmail.com or https://vk.com/anon0011011101011000001101110100
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loakdv)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=loakdv&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loakdv)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=loakdv&show_icons=true)  
+
