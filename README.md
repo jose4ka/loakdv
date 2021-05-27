@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=loakdv)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I am a student at Maritime State University. adm. G.I. Nevelsky. Faculty of Electronics and Information Technology.       Informatics and computer engineering.
 - 📱  I am engaged in android development, I also take part in the development of a VR simulator for my university.
