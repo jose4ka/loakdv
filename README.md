@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning Android, Unity Development, also Neural Networks
 - 📫 How to reach me: rabowvdk125@gmail.com or https://vk.com/anon0011011101011000001101110100
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loakdv)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=loakdv&show_icons=true)  
